@@ -102,7 +102,7 @@ Power BI Visual Report.
 
 The snippet below shows results of the NMR in Africa for a period of 5 year.
 
-![image10](https://github.com/ruth-kitasi/Neonatal-mortality-rate-trend-in-Africa/assets/106556092/d498c572-eb25-42a4-ac40-cd3906b08248)
+![neonatal](https://github.com/ruth-kitasi/Neonatal-mortality-rate-trend-in-Africa/assets/106556092/dde03206-ef5c-4999-9e0f-2e4270010c2f)
 ### Observations
 From the analysis, I can conclude that over the five year(2017–2021) there has been an avg decline 0.20% in NMR. This can be backed-by the combination of factors reflecting improvements in healthcare, socio-economic conditions, and public and private health interventions.
 
